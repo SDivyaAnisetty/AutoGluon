@@ -1,5 +1,6 @@
 # AutoGluon
-
+AutoGluon, developed by AWS AI, automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy machine learning and deep learning models.  
+**Feature importance** allows you to understand the relationship between the features and the target variable.
 
 
 ## Operators Nova Scotia - Classification model
